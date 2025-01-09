@@ -11,6 +11,7 @@ As a data analyst with expertise in SQL, I conducted a comprehensive analysis of
 **SQL Techniques Used:**
 - JOINs and GROUP BY were used to combine and aggregate data across multiple tables (e.g., movie genres, box office revenue, and audience demographics).
 Window Functions (e.g., RANK()) were utilized to rank genres based on revenue and ratings, helping identify the most popular genres in different regions.
+
 **Findings:** 
 Identified that action and drama genres had the highest global appeal, but their success varied significantly by region.
 
@@ -18,6 +19,7 @@ Identified that action and drama genres had the highest global appeal, but their
 **SQL Techniques Used:**
 Subqueries and CTEs (Common Table Expressions) were employed to dynamically aggregate movie data, comparing budget versus box office revenue across multiple variables.
 CASE WHEN statements helped identify the success of movies with high budgets and their associated genres.
+
 **Findings:** 
 Established a clear correlation between higher budgets and better performance in genres like action and thriller, suggesting that RSVP Movies should allocate a significant budget to these genres for the global release.
 
@@ -25,6 +27,7 @@ Established a clear correlation between higher budgets and better performance in
 **SQL Techniques Used:**
 Nested Queries and HAVING clauses were used to filter and segment movies by language and assess their performance across different regions.
 GROUP BY combined with CASE WHEN statements allowed for the comparison of global box office earnings based on language, identifying trends that could optimize the global release strategy.
+
 **Findings:** 
 Movies in English and regional languages like Spanish and French performed significantly better in international markets, making language a critical factor for RSVP Movies' global release planning.
 
@@ -32,6 +35,7 @@ Movies in English and regional languages like Spanish and French performed signi
 **SQL Techniques Used:**
 Advanced JOINs and Window Functions were applied to analyze the contribution of specific actors, directors, and producers to movie success.
 RANK() and DENSE_RANK() were utilized to rank movies based on cast and crew impact, helping identify which combinations of talent produced the highest financial returns.
+
 **Findings:**
 High-profile actors and well-known directors correlated with higher global box office earnings, reinforcing the importance of selecting the right cast for global appeal.
 
