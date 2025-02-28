@@ -62,7 +62,6 @@ High-profile actors and well-known directors correlated with higher global box o
   - `Subqueries` and `CTEs`: For dynamic aggregation and comparison of movie data.
   - `CASE WHEN Statements`: For conditional analysis based on genre, language, and budget.
 - **Data Management**: SQL databases for storing and managing movie data.
-- **Visualization Tools** (Optional): For visualizing trends in genre popularity, box office performance, and global reception.
 
 ## Outcome
 
